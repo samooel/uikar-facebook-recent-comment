@@ -1,0 +1,31 @@
+.ltr
+{
+    direction:ltr;
+    text-align:left
+}
+.uikar-fb-comment-holder
+{
+    background-color: #fff;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    margin-top: 8px;
+}
+.uikar-fb-comment-holder .uikar-fb-comment
+{
+    border-bottom: 1px dashed #cecece;
+}
+.uikar-fb-comment-holder .uikar-fb-comment:last-child
+{
+    border-bottom:0;
+}
+.uikar-fb-comment-holder .uikar-fb-comment h3 {
+    color: #000;
+    font-weight: bold;
+    font-size: 15px;
+}
+.uikar-fb-comment p
+{
+    line-height: 14px;
+    margin-bottom: 10px;
+}
